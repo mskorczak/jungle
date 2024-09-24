@@ -4,6 +4,7 @@ ECHO The Monkey will now plant a Jungle in your computer.
 ECHO Good Luck!
 ECHO It's CTRL+C to quit this btw.
 ECHO If you wanna quit, now is the right time, because stopping copying files can be annyoing to clean.
+ECHO IMPORTANT: DELETE THE CONTENTS OF YOUR MODS FOLDER BEFORE DOING THIS AS I DONT WANT TO FIND OUT
 PAUSE
 cd %appdata%\.minecraft
 MD mods
