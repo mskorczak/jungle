@@ -1,0 +1,31 @@
+{
+    "key": "fandango",
+    "label": "Fandango (PVP)",
+    "updateInterval": 30,
+    "showControls": true,
+    "defaultHidden": false,
+    "markers": [
+        {
+            "type": "circ",
+            "data": {
+                "key": "monkey_village",
+                "center": {
+                        "x": 1783,
+                        "z": 1238
+                    },
+				"radius": 50.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": 52224
+                },
+                "tooltip": {
+                    "content": "Fandango (PVP)",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "key": "oscar_portal",
+    "label": "Oscar's Portal",
+    "updateInterval": 30,
+    "showControls": true,
+    "defaultHidden": false,
+    "markers": [
+        {
+            "type": "circ",
+            "data": {
+                "key": "oscar_portal",
+                "center": {
+                        "x": 55,
+                        "z": -51
+                    },
+				"radius": 5.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": 52224
+                },
+                "tooltip": {
+                    "content": "Oscar's Portal",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        }
+    ]
+}
