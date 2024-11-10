@@ -40,10 +40,164 @@
             "options": {
                 "stroke": {
                     "weight": 3,
-                    "color": 52224
+                    "color": -65536
                 },
                 "tooltip": {
                     "content": "Monkey Village",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        },
+		{
+            "type": "circ",
+            "data": {
+                "key": "sean_ship",
+                "center": {
+                        "x": 352,
+                        "z": -480
+                    },
+				"radius": 25.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": -65536
+                },
+                "tooltip": {
+                    "content": "Sean's Ship",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        },
+		{
+            "type": "circ",
+            "data": {
+                "key": "end_entrance",
+                "center": {
+                        "x": 609,
+                        "z": 2035
+                    },
+				"radius": 25.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": -65536
+                },
+                "tooltip": {
+                    "content": "End Entrance",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        },
+		{
+            "type": "circ",
+            "data": {
+                "key": "eddies_area",
+                "center": {
+                        "x": 3305,
+                        "z": 2935
+                    },
+				"radius": 50.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": -65536
+                },
+                "tooltip": {
+                    "content": "Eddie's Erea",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        },
+		{
+            "type": "circ",
+            "data": {
+                "key": "jumpington",
+                "center": {
+                        "x": -30,
+                        "z": -969
+                    },
+				"radius": 50.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": -65536
+                },
+                "tooltip": {
+                    "content": "Jumpington",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        },
+		{
+            "type": "circ",
+            "data": {
+                "key": "ludis_lair",
+                "center": {
+                        "x": -4838,
+                        "z": -2496
+                    },
+				"radius": 50.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": -65536
+                },
+                "tooltip": {
+                    "content": "Ludi's Lair",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        },
+		{
+            "type": "circ",
+            "data": {
+                "key": "edgeville",
+                "center": {
+                        "x": 77,
+                        "z": 4995
+                    },
+				"radius": 50.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": -65536
+                },
+                "tooltip": {
+                    "content": "Edgeville",
+                    "direction": 2,
+                    "sticky": true
+                }
+            }
+        },
+		{
+            "type": "circ",
+            "data": {
+                "key": "a_house",
+                "center": {
+                        "x": 15,
+                        "z": -64
+                    },
+				"radius": 50.0
+            },
+            "options": {
+                "stroke": {
+                    "weight": 3,
+                    "color": -65536
+                },
+                "tooltip": {
+                    "content": "A House :D",
                     "direction": 2,
                     "sticky": true
                 }
